@@ -584,7 +584,11 @@ font-size: 16px;
 font-weight: 400;
 margin-top: 15px;
 }
-
+.foter ul li a {
+  color: rgba(0, 0, 0, 0.5);
+  font-size: 16px;
+  font-weight: 400;
+}
 .foter .right .follow {
   display: flex;
   flex-direction: column;
